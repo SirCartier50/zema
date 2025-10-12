@@ -10,8 +10,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@headlessui/react": "^2.2.0",
+    "@heroicons/react": "^2.2.0",
+    "@tailwindcss/vite": "^4.0.17",
+    "compressorjs": "^1.2.1",
+    "firebase": "^11.10.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.2",
+    "tailwindcss": "^4.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
